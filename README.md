@@ -7,7 +7,7 @@ Perfect for two players to enjoy a nostalgic game with a pastel theme! 🌸
 
 ## 🕹️ Play it here:
 
-![Game Screenshot](./screenshot.png) <!-- You can update this with your own screenshot -->
+https://chitrathakur.github.io/XOXO-TicTacToe/
 
 ---
 
