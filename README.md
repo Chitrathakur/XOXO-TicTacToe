@@ -3,13 +3,11 @@
 A fun and sweetly designed **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**.
 Perfect for two players to enjoy a nostalgic game with a pastel theme! 🌸
 
----
 
 ## 🕹️ Play it here:
 
 https://chitrathakur.github.io/XOXO-TicTacToe/
 
----
 
 ## ✨ Features
 
@@ -19,7 +17,6 @@ https://chitrathakur.github.io/XOXO-TicTacToe/
 - 🔁 Reset and New Game buttons
 - 🧠 Winner detection logic
 
----
 
 ## 🛠️ Built With
 
@@ -29,7 +26,6 @@ CSS3 – Styling and layout (pastel theme 💗)
 
 JavaScript (Vanilla) – Game logic
 
----
 
 ## 📚 What I Learned
 
